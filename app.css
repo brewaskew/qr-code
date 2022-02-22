@@ -1,0 +1,40 @@
+h5 {
+    font-weight: 700;
+}
+
+.container {
+    margin: auto;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.mainBox {
+    background-color: white;
+    margin: 100px auto;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: auto;
+    height: auto;
+    padding: 15px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.mainBox p {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+}
+
+.card {
+    width: 18rem;
+    border: none;
+    text-align: center;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }  
