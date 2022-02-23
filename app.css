@@ -6,11 +6,6 @@ body {
     background-color: hsl(212, 45%, 89%);
 }
 
-h2 {
-    font-weight: 700;
-    font-size: 1em;
-}
-
 .container {
     height: 100vh;
     width: 100vw;
