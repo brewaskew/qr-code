@@ -1,15 +1,18 @@
-main {
-    display: flex;
-}
-
 body {
     background-color: hsl(212, 45%, 89%);
 }
 
-.container {
-    height: 100vh;
-    width: 100vw;
-    background-color: hsl(212, 45%, 89%);
+h1 {
+    font-weight: 700;
+    font-size: 1.25em;
+    margin-top: .75em;
+}
+
+p {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    margin-top: 1em;
 }
 
 .row {
@@ -31,19 +34,6 @@ body {
     margin-bottom: 10px;
 }
 
-h1 {
-    font-weight: 700;
-    font-size: 1.25em;
-    margin-top: .75em;
-}
-
-p {
-    font-size: 15px;
-    color: hsl(220, 15%, 55%);
-    font-weight: 400;
-    margin-top: 1em;
-}
-
 .card {
     width: 18rem;
     border: none;
@@ -60,21 +50,21 @@ p {
   }
 
 
-  @media (max-height: 480px) {
-   .mainBox {
-        width: 200px;
-        height: 300px;
-        padding: 15px;
-    }
-
+  @media (max-height: 490px) {
     h1 {
         font-size: .8em;
         margin-top: 0;
     }
 
-    .mainBox p {
+    p {
         font-size: 9px;
         margin-top: 0;
+    }
+
+   .mainBox {
+        width: 200px;
+        height: 300px;
+        padding: 15px;
     }
 
     .attribution {
