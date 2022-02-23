@@ -27,8 +27,8 @@ Display a QR Code in a card-like appearance.
 
 ### Links
 
-- Solution URL: [](https://github.com/brewaskew/qr-code)
-- Live Site URL: [](https://brewaskew.github.io/qr-code/)
+- Solution URL: [https://github.com/brewaskew/qr-code](https://github.com/brewaskew/qr-code)
+- Live Site URL: [https://brewaskew.github.io/qr-code/](https://brewaskew.github.io/qr-code/)
 
 ## My process
 
