@@ -40,6 +40,10 @@ p {
     text-align: center;
 }
 
+.card-img-top {
+    border-radius: 15px;
+}
+
 .attribution {
     font-size: 12px;
     text-align: center;
