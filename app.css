@@ -63,7 +63,7 @@ p {
   }
 
 
-  @media (max-height: 635px) {
+  @media (max-height: 450px) {
    .mainBox {
         width: 200px;
         height: 300px;
