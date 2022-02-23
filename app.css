@@ -37,6 +37,8 @@ h2 {
 }
 
 h1 {
+    font-weight: 700;
+    font-size: 1.25em;
     margin-top: .75em;
 }
 
@@ -71,6 +73,7 @@ p {
     }
 
     h1 {
+        font-size: .8em;
         margin-top: 0;
     }
 
