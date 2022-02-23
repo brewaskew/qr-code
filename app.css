@@ -63,7 +63,7 @@ p {
   }
 
 
-  @media (max-height: 450px) {
+  /* @media (max-height: 450px) {
    .mainBox {
         width: 200px;
         height: 300px;
@@ -82,4 +82,4 @@ p {
     .attribution {
         font-size: 9px;
       }
-  }
+  } */
