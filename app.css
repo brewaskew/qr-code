@@ -103,7 +103,7 @@ p {
 
   @media (max-height: 235px) {
     h1 {
-        font-size: .3em;
+        font-size: .5em;
         margin-top: 0;
     }
 
@@ -114,14 +114,14 @@ p {
 
     img {
         width: 75px;
-        height: 75px;
+        height: 90px;
     }
 
    .mainBox {
        /* display: inline-block; */
-        width: 100px;
-        height: 150px;
-        padding: 2px;
+        width: 115px;
+        height: 175px;
+        padding: 5px;
     }
 
     .attribution {
